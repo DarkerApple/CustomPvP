@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "custom",
+    "category": "equipment",
+    "pattern": [
+      "I I",
+      "OOO",
+      "OOO"
+    ],
+    "key": {
+      "O": "minecraft:heavy_core",
+      "I": [
+        "minecraft:resin_brick"
+      ]
+    },
+    "result": {
+      "id": "minecraft:iron_chestplate",
+      "components": {
+        "minecraft:custom_data": {
+          "tank": true
+        }
+      }
+    }
+  }

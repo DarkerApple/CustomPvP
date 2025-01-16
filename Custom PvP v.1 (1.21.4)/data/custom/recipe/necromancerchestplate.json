@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "custom",
+    "category": "equipment",
+    "pattern": [
+      "B B",
+      "GOG",
+      "III"
+    ],
+    "key": {
+      "B": "minecraft:diamond_block",
+      "G": "minecraft:blaze_powder",
+      "O": "minecraft:bogged_spawn_egg",
+      "I": "minecraft:netherite_scrap"
+    },
+    "result": {
+      "id": "minecraft:chainmail_chestplate",
+      "components": {
+        "minecraft:custom_name": "\"Necromancer Chestplate\"",
+        "minecraft:rarity": "epic",
+        "minecraft:custom_data": {
+          "Nec": true
+        }
+      }
+    }
+  }

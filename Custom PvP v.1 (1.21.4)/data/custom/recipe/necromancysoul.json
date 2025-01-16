@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "custom",
+    "category": "misc",
+    "ingredients": [
+      "minecraft:netherite_scrap",
+      "minecraft:diamond_block",
+      "minecraft:netherite_scrap",
+      "minecraft:golden_apple",
+      "minecraft:enchanted_golden_apple"
+    ],
+    "result": {
+      "id": "minecraft:bogged_spawn_egg",
+      "components": {
+        "minecraft:rarity": "epic",
+        "minecraft:custom_name": "\"Necromancy Soul\""
+      },
+      "count": 1
+    }
+  }

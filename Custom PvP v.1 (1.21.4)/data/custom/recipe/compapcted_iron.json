@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "Custom",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block",
+    "minecraft:iron_block"
+  ],
+  "result": {
+    "id": "minecraft:raw_iron_block",
+    "components": {
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "Compacted": true
+      },
+      "minecraft:custom_name": "\"Compacted Iron Block\""
+    },
+    "count": 1
+  }
+}

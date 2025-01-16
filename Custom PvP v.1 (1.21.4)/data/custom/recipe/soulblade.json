@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "custom",
+    "category": "equipment",
+    "pattern": [
+      " B ",
+      " O ",
+      " S "
+    ],
+    "key": {
+      "B": "minecraft:bogged_spawn_egg",
+      "O": "minecraft:heavy_core",
+      "S": "minecraft:breeze_rod"
+    },
+    "result": {
+      "id": "minecraft:diamond_sword",
+      "components": {
+        "minecraft:custom_data": {
+          "soul": true
+        }
+      },
+      "count": 1
+    },
+    "show_notification": true
+  }

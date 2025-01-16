@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "custom",
+    "category": "equipment",
+    "pattern": [
+      " I ",
+      " I ",
+      " O "
+    ],
+    "key": {
+      "O": "minecraft:lightning_rod",
+      "I": "minecraft:heavy_core"
+    },
+    "result": {
+      "id": "minecraft:iron_sword",
+      "components": {
+        "minecraft:custom_name": "\"Scylla\"",
+        "minecraft:custom_data": {
+          "scylla": true
+        }
+      },
+      "count": 1
+    },
+    "show_notification": false
+  }
